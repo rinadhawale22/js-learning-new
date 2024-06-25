@@ -1,1 +1,1 @@
-# js-learning-new
+# js-learning-repo
